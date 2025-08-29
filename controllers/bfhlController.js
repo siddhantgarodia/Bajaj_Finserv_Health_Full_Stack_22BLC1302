@@ -4,10 +4,10 @@
 
 // Personal information
 const USER_INFO = {
-  full_name: "john_doe",
-  dob: "17091999",
-  email: "john@xyz.com",
-  roll_number: "ABCD123"
+  full_name: "Siddhant_Garodia",
+  dob: "23092003",
+  email: "siddhantgarodia23@gmail.com",
+  roll_number: "22BLC1302"
 };
 
 /**
